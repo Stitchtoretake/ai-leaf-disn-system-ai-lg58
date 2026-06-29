@@ -1,4 +1,4 @@
-# 
+# 原生 AI leaf disease detection system 模板。集成 计算机视觉 和 自动决策，性能最大化。
 
 
 
